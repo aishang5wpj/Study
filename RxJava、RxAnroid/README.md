@@ -8,5 +8,6 @@
 
 - [RxJava入门学习笔记](http://blog.csdn.net/aishang5wpj/article/details/51580641)
 
+- [Awesome-RxJava（整理了很多相关资料，内容很多）](https://github.com/lzyzsd/Awesome-RxJava)
 
 #实例
