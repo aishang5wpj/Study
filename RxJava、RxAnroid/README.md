@@ -8,6 +8,11 @@
 
 - [RxJava入门学习笔记](http://blog.csdn.net/aishang5wpj/article/details/51580641)
 
+- [Intro To RxJava 系列教程 总结](http://blog.chengyunfeng.com/?p=983)
+- [RxJava 的 compose() 操作函数实战](http://blog.chengyunfeng.com/?p=987)
+
 - [Awesome-RxJava（整理了很多相关资料，内容很多）](https://github.com/lzyzsd/Awesome-RxJava)
 
 #实例
+
+- [使用RxJava从多个数据源获取数据(三级缓存)](http://www.jianshu.com/p/be084df924dc)
