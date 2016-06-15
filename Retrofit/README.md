@@ -1,2 +1,5 @@
 - [Retrofit笔记](http://www.jianshu.com/p/90b1f20b123d)
 - [RxJava 与 Retrofit 结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)
+- [Retrofit+RxJava实战日志(1)-在Android Studio中配置](http://blog.csdn.net/efan006/article/details/50543309)
+- [ Retrofit+RxJava实战日志(2)-基本使用](http://blog.csdn.net/efan006/article/details/50543990)
+- [Retrofit+RxJava实战日志(3)-网络异常处理](http://blog.csdn.net/efan006/article/details/50544204)
