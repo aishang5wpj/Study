@@ -15,6 +15,11 @@
     <com.aishang5wpj.bezier.BezierView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_margin="30dp"/>
+        android:layout_margin="30dp"
+        android:visibility="gone"/>
+
+    <com.aishang5wpj.bezier.CurveView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
 
 </RelativeLayout>

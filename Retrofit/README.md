@@ -3,3 +3,6 @@
 - [Retrofit+RxJava实战日志(1)-在Android Studio中配置](http://blog.csdn.net/efan006/article/details/50543309)
 - [ Retrofit+RxJava实战日志(2)-基本使用](http://blog.csdn.net/efan006/article/details/50543990)
 - [Retrofit+RxJava实战日志(3)-网络异常处理](http://blog.csdn.net/efan006/article/details/50544204)
+- [Retrofit+OKHttp 教你怎么持久化管理Cookie](http://blog.csdn.net/lyhhj/article/details/51345386)
+- [Retrofit--使用Retrofit时怎样去设置OKHttp](http://blog.csdn.net/lyhhj/article/details/51388147)
+- [Retrofit--合理封装回调能让你的项目高逼格](http://blog.csdn.net/lyhhj/article/details/51720296)
