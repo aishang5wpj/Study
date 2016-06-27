@@ -1,6 +1,7 @@
 #教程
 - [UML类图几种关系的总结](http://blog.csdn.net/tianhai110/article/details/6339565)
 - [Android Studio下自动生成UML图](http://blog.csdn.net/nanyi545/article/details/51368037)
+- [从Android代码中来记忆23种设计模式](http://blog.csdn.net/huachao1001/article/details/51536074)
 
 #工具
 

@@ -11,9 +11,10 @@ MVC、MVP、MVVM相关
 
 - [认清Android框架 MVC，MVP和MVVM](http://blog.csdn.net/jdsjlzx/article/details/51174396)
 
+- [如何构建Android MVVM应用程序](http://www.jianshu.com/p/2fc41a310f79)
+
 #实例
 
-###MVP
 - [android-architecture：Google官方的MVP架构演示](https://github.com/googlesamples/android-architecture)
 
 - [一款很棒的Material Design + MVP风格的资讯阅读app](https://github.com/aishang5wpj/JuheNews)
